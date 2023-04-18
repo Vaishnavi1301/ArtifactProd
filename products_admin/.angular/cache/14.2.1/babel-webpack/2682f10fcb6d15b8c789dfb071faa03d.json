@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const environment = {\n  production: true,\n  apiGatewayURL: 'http://172.20.0.2:3000'\n};","map":null,"metadata":{},"sourceType":"module"}
